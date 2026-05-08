@@ -1,5 +1,5 @@
 
-# git-blame-hover
+# git-blame-on-hover
 
 Show Git commit blame details on hover, with clickable commit links and a quick diff view for each commit.
 
@@ -29,7 +29,7 @@ Click the globe icon to open the commit in your remote repository (supports GitH
 
 ## Extension Commands
 
-- `git-blame-hover.openCommitChanges`: Opens the diff view for a specific commit. (Used internally by the hover link.)
+- `git-blame-on-hover.openCommitChanges`: Opens the diff view for a specific commit. (Used internally by the hover link.)
 
 ## Development & Testing
 

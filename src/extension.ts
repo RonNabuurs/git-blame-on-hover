@@ -9,7 +9,7 @@ import { buildCommitUrl } from './utils/remoteUrl';
 
 export function activate(context: vscode.ExtensionContext) {
 
-	console.log('Extension "git-blame-hover" is now active!');
+	console.log('Extension "git-blame-on-hover" is now active!');
 
 	const openCommitChangesCommand = vscode.commands.registerCommand(
 		OPEN_COMMIT_CHANGES_COMMAND,
@@ -43,5 +43,5 @@ export function activate(context: vscode.ExtensionContext) {
 }
 
 export function deactivate() {
-	console.log('Extension "git-blame-hover" has been deactivated.');
+	console.log('Extension "git-blame-on-hover" has been deactivated.');
 }
