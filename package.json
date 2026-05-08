@@ -7,7 +7,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RonNabuurs/git-blame-hover"
+    "url": "https://github.com/RonNabuurs/git-blame-on-hover"
   },
   "engines": {
     "vscode": "^1.118.0"
