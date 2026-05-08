@@ -5,6 +5,10 @@
   "description": "Show git blame details on hover, with commit links and quick commit diff view.",
   "license": "MIT",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RonNabuurs/git-blame-hover"
+  },
   "engines": {
     "vscode": "^1.118.0"
   },
