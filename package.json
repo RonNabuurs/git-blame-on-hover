@@ -1,7 +1,7 @@
 {
-  "name": "git-blame-hover",
+  "name": "git-blame-on-hover",
   "publisher": "RonNabuurs",
-  "displayName": "git-blame-hover",
+  "displayName": "Git blame on hover",
   "description": "Show git blame details on hover, with commit links and quick commit diff view.",
   "license": "MIT",
   "version": "0.0.1",
@@ -22,7 +22,7 @@
   "contributes": {
     "commands": [
       {
-        "command": "git-blame-hover.openCommitChanges",
+        "command": "git-blame-on-hover.openCommitChanges",
         "title": "Open Commit Changes"
       }
     ]
