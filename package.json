@@ -4,7 +4,7 @@
   "displayName": "Git blame on hover",
   "description": "Show git blame details on hover, with commit links and quick commit diff view.",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "media/icon.png",
   "repository": {
     "type": "git",
