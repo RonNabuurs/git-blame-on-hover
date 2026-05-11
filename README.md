@@ -1,6 +1,8 @@
 
 # git-blame-on-hover
 
+[![Version](https://vsmarketplacebadges.dev/version/ronnabuurs.git-blame-on-hover.svg?&colorB=orange)](https://marketplace.visualstudio.com/items?itemName=RonNabuurs.git-blame-on-hover) [![Installs](https://vsmarketplacebadges.dev/installs/ronnabuurs.git-blame-on-hover.svg)](https://marketplace.visualstudio.com/items?itemName=RonNabuurs.git-blame-on-hover) [![Downloads](https://vsmarketplacebadges.dev/downloads/ronnabuurs.git-blame-on-hover.svg)](https://marketplace.visualstudio.com/items?itemName=RonNabuurs.git-blame-on-hover)
+
 Show Git commit blame details on hover, with clickable commit links and a quick diff view for each commit.
 
 ![Blame hover screenshot](media/hover.png)
